@@ -5,7 +5,7 @@ import (
 	"math"
 	"testing"
 
-	log "github.com/neatio-project/log15"
+	log "github.com/neatlib/log15-go"
 )
 
 func testHandler() (log.Handler, *log.Record) {
