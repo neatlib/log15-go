@@ -1,1 +1,1 @@
-# log15-go library
+# Log15 Go Library
